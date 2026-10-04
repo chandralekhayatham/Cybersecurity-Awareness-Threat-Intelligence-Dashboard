@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "category": "Phishing",
+    "question": "You receive an unexpected urgent password request. What is safest?",
+    "options": [
+      "Click immediately",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "correct": 2,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 2,
+    "category": "Passwords",
+    "question": "Which practice is safest?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Use short passwords"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 3,
+    "category": "MFA",
+    "question": "What should you do with an unexpected MFA prompt?",
+    "options": [
+      "Approve it",
+      "Ignore and investigate through trusted channels",
+      "Share the code",
+      "Post it"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 4,
+    "category": "Safe Browsing",
+    "question": "What should you do before opening an unexpected link?",
+    "options": [
+      "Verify destination",
+      "Disable security",
+      "Download files",
+      "Enter credentials"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 5,
+    "category": "Ransomware",
+    "question": "Which is a useful defensive control?",
+    "options": [
+      "Backups",
+      "Credential sharing",
+      "Disabling updates",
+      "Ignoring alerts"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 6,
+    "category": "Privacy",
+    "question": "What is a good privacy practice?",
+    "options": [
+      "Minimize unnecessary personal data",
+      "Publish everything",
+      "Reuse credentials",
+      "Disable updates"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 7,
+    "category": "Phishing",
+    "question": "You receive an unexpected urgent password request. What is safest?",
+    "options": [
+      "Click immediately",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "correct": 2,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 8,
+    "category": "Passwords",
+    "question": "Which practice is safest?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Use short passwords"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 9,
+    "category": "MFA",
+    "question": "What should you do with an unexpected MFA prompt?",
+    "options": [
+      "Approve it",
+      "Ignore and investigate through trusted channels",
+      "Share the code",
+      "Post it"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 10,
+    "category": "Safe Browsing",
+    "question": "What should you do before opening an unexpected link?",
+    "options": [
+      "Verify destination",
+      "Disable security",
+      "Download files",
+      "Enter credentials"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 11,
+    "category": "Ransomware",
+    "question": "Which is a useful defensive control?",
+    "options": [
+      "Backups",
+      "Credential sharing",
+      "Disabling updates",
+      "Ignoring alerts"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 12,
+    "category": "Privacy",
+    "question": "What is a good privacy practice?",
+    "options": [
+      "Minimize unnecessary personal data",
+      "Publish everything",
+      "Reuse credentials",
+      "Disable updates"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 13,
+    "category": "Phishing",
+    "question": "You receive an unexpected urgent password request. What is safest?",
+    "options": [
+      "Click immediately",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "correct": 2,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 14,
+    "category": "Passwords",
+    "question": "Which practice is safest?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Use short passwords"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 15,
+    "category": "MFA",
+    "question": "What should you do with an unexpected MFA prompt?",
+    "options": [
+      "Approve it",
+      "Ignore and investigate through trusted channels",
+      "Share the code",
+      "Post it"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 16,
+    "category": "Safe Browsing",
+    "question": "What should you do before opening an unexpected link?",
+    "options": [
+      "Verify destination",
+      "Disable security",
+      "Download files",
+      "Enter credentials"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 17,
+    "category": "Ransomware",
+    "question": "Which is a useful defensive control?",
+    "options": [
+      "Backups",
+      "Credential sharing",
+      "Disabling updates",
+      "Ignoring alerts"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 18,
+    "category": "Privacy",
+    "question": "What is a good privacy practice?",
+    "options": [
+      "Minimize unnecessary personal data",
+      "Publish everything",
+      "Reuse credentials",
+      "Disable updates"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 19,
+    "category": "Phishing",
+    "question": "You receive an unexpected urgent password request. What is safest?",
+    "options": [
+      "Click immediately",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "correct": 2,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 20,
+    "category": "Passwords",
+    "question": "Which practice is safest?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Use short passwords"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 21,
+    "category": "MFA",
+    "question": "What should you do with an unexpected MFA prompt?",
+    "options": [
+      "Approve it",
+      "Ignore and investigate through trusted channels",
+      "Share the code",
+      "Post it"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 22,
+    "category": "Safe Browsing",
+    "question": "What should you do before opening an unexpected link?",
+    "options": [
+      "Verify destination",
+      "Disable security",
+      "Download files",
+      "Enter credentials"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 23,
+    "category": "Ransomware",
+    "question": "Which is a useful defensive control?",
+    "options": [
+      "Backups",
+      "Credential sharing",
+      "Disabling updates",
+      "Ignoring alerts"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 24,
+    "category": "Privacy",
+    "question": "What is a good privacy practice?",
+    "options": [
+      "Minimize unnecessary personal data",
+      "Publish everything",
+      "Reuse credentials",
+      "Disable updates"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 25,
+    "category": "Phishing",
+    "question": "You receive an unexpected urgent password request. What is safest?",
+    "options": [
+      "Click immediately",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "correct": 2,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 26,
+    "category": "Passwords",
+    "question": "Which practice is safest?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Use short passwords"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 27,
+    "category": "MFA",
+    "question": "What should you do with an unexpected MFA prompt?",
+    "options": [
+      "Approve it",
+      "Ignore and investigate through trusted channels",
+      "Share the code",
+      "Post it"
+    ],
+    "correct": 1,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 28,
+    "category": "Safe Browsing",
+    "question": "What should you do before opening an unexpected link?",
+    "options": [
+      "Verify destination",
+      "Disable security",
+      "Download files",
+      "Enter credentials"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 29,
+    "category": "Ransomware",
+    "question": "Which is a useful defensive control?",
+    "options": [
+      "Backups",
+      "Credential sharing",
+      "Disabling updates",
+      "Ignoring alerts"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  },
+  {
+    "id": 30,
+    "category": "Privacy",
+    "question": "What is a good privacy practice?",
+    "options": [
+      "Minimize unnecessary personal data",
+      "Publish everything",
+      "Reuse credentials",
+      "Disable updates"
+    ],
+    "correct": 0,
+    "explanation": "Choose the option that verifies or reduces risk without interacting with suspicious content."
+  }
+]
